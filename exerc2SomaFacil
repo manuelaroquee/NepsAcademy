@@ -1,0 +1,16 @@
+programa
+{
+	
+	funcao inicio()
+	{
+	     inteiro a, b, soma
+	     
+	     leia(a)
+	     leia(b)
+	     
+		soma = a + b
+
+		escreva(soma)
+		
+	}
+}
