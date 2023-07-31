@@ -1,0 +1,15 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro a, b, media
+
+		leia(a)
+		leia(b)
+
+		media = (a + b) / 2
+		
+          escreva(media)
+	}
+}
