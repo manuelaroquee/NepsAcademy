@@ -1,0 +1,14 @@
+programa
+{
+	
+	funcao inicio()
+	{
+	     inteiro l, area
+
+	     leia(l)
+
+	     area = l*l
+	 
+		escreva(area)
+	}
+}
